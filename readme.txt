@@ -1,3 +1,3 @@
-﻿Hello Everyone!
+Hello Everyone!
 
 Welcome to my world.
